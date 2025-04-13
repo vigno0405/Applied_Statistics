@@ -6,4 +6,5 @@ The work is divided into four main steps:
 3. FPCA.
 4. k-means (functional) clustering.
 5. Prediction (functional regression with respect to external variables).
-Promising results were obtained.
+   
+Promising results were obtained. Coding has been performed in R for statistical analysis.
